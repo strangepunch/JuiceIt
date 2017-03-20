@@ -1,10 +1,10 @@
-import { JuiceItPage } from './app.po';
+import { Juiceit2Page } from './app.po';
 
-describe('juice-it App', function() {
-  let page: JuiceItPage;
+describe('juiceit2 App', function() {
+  let page: Juiceit2Page;
 
   beforeEach(() => {
-    page = new JuiceItPage();
+    page = new Juiceit2Page();
   });
 
   it('should display message saying app works', () => {

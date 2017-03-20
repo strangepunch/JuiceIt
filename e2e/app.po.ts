@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class JuiceItPage {
+export class Juiceit2Page {
   navigateTo() {
     return browser.get('/');
   }
